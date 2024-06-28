@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning GDScript, C# and HTML (I know that its a wierd combination)
 - 💞️ I’m looking to collaborate on game development
 - 📫 How to reach me HSG_4338 anywhere
-- 😄 Pronouns: he/hiim
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: IDK
 
 <!---
