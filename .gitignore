@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.cache/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# HuggingFace model cache (large files — use Git LFS if you want to track these)
+models/cache/
+*.bin
+*.safetensors
+*.gguf
+
+# Logs
+logs/*.log
+logs/*.log.*
+
+# Database
+memory/*.db
+memory/*.sqlite
+
+# Workspace output (generated code)
+workspace/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Git LFS tracking is configured separately for large model files
